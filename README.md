@@ -1,2 +1,1 @@
-# rent-share
-Rent Share Application
+# RentShareApp-ReactNative
